@@ -1,6 +1,6 @@
 import Layout from "../components/Layout";
 import PageHeading from "../components/PageHeading";
-export default function AboutPage() {
+export default function aboutPage() {
   return (
     <Layout>
       <PageHeading title="About Page"></PageHeading>
