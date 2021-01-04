@@ -42,6 +42,9 @@ function Header() {
           <Link href="/kakteen">
             <a className={tw`text-xl font-light text-gray-700`}>kakteen</a>
           </Link>
+          <Link href="/blumen">
+            <a className={tw`text-xl font-light text-gray-700`}>blumen</a>
+          </Link>
         </div>
       </div>
     </header>
