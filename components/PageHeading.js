@@ -9,7 +9,7 @@ function PageHeading(props) {
       </Head>
       <div className={tw`flex-1 mb-6 min-w-0`}>
         <h1
-          className={tw`text-2xl font-bold leading-7 mt-4 text-gray-900 dark:text-yellow-custom sm:text-3xl sm:leading-9`}
+          className={tw`text-4xl font-bold leading-7 mt-4 text-gray-900 dark:text-yellow-custom sm:text-3xl sm:leading-9`}
         >
           {props.title}
         </h1>

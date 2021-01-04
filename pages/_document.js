@@ -1,6 +1,7 @@
 import { setup } from "twind";
 import { asyncVirtualSheet, getStyleTagProperties } from "twind/server";
 import twindConfig from "../twind.config";
+import React from "react";
 import Document, { Html, Head, Main, NextScript } from "next/document";
 const sheet = asyncVirtualSheet();
 
