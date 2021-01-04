@@ -20,8 +20,8 @@ export default function Blog(props) {
                   Kakteen
                 </h1>
                 <p className="leading-relaxed mb-3">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Kaktten brauchen nicht so viel Wasser weil sie in der Wüste
+                  leben.
                 </p>
                 <div className="flex items-center flex-wrap ">
                   <a className="text-green-500 inline-flex items-center md:mb-2 lg:mb-0">
