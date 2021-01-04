@@ -14,7 +14,7 @@ export default function Blog(props) {
               />
               <div className="p-6">
                 <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
-                  CATEGORY
+                  Kakteen aus der welt
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                   Kakteen
