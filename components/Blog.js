@@ -17,7 +17,7 @@ export default function Blog(props) {
                   CATEGORY
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  The Catalyzer
+                  Kakteen
                 </h1>
                 <p className="leading-relaxed mb-3">
                   Photo booth fam kinfolk cold-pressed sriracha leggings
